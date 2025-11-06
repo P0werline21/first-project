@@ -46,7 +46,7 @@ get_ipython().system('pip install -U scikit-learn #добавлена по ко�
 
 
 #Сразу зададим константы для будущей модели
-RANDOM_STATE = 46
+RANDOM_STATE = 50
 TEST_SIZE = 0.25
 
 
